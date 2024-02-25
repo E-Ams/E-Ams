@@ -124,7 +124,6 @@
 </div>
 
 <hr/>
-<p>test</p>
 
 Badges by <a target="_blank" href="https://ileriayo.github.io/markdown-badges/">Shield.io</a>
 
