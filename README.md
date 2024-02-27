@@ -11,10 +11,10 @@
 </div>
 <div align="center">
     <a href="https://linkedin.com/in/evert-amsenga-9642b3182">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/E-Ams">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
 </div>
 
@@ -24,8 +24,11 @@
     <a href="https://www.credly.com/badges/69316c3d-acab-4fe4-b71f-961ab651314d/linked_in_profile">
         <img src="./Media/aplusEvert.png" alt="CompTIA A+ ce Certification" width="80" height="80">
     </a>
-    <a href="https://skillshop.exceedlms.com/student/award/y4vSyfYQV2hPW5iCau3NqYGW">
-        <img src="./Media/waze.png" alt="Waze Ads Fundamentals" width="80" height="80">
+    <a href="https://www.credly.com/badges/8c998c00-79ff-4aaa-8400-e4b2f8daa416/linked_in_profile">
+        <img src="./Media/word_cert.png" alt="Pearson Word Introductory" width="80" height="80">
+    </a>
+    <a href="https://www.credly.com/badges/8a1b0c3b-ef97-4b2a-8f91-646f6b3720dd/linked_in_profile">
+        <img src="./Media/powerpoint_cert.png" alt="Pearson Powerpoint Introductory" width="80" height="80">
     </a>
 </div>
 
