@@ -4,7 +4,7 @@
 <div align="center">
     <p>
         :smile: Hi! My name is Evert Amsenga.<br/>
-        :clock2: 24 years old.<br/>
+        :clock2: 25 years old.<br/>
         :round_pushpin: From South Africa :south_africa:<br/>
         :open_book: BSc Information Technology: Software Engineering at Eduvos.<br/>
     </p>
@@ -143,6 +143,7 @@
 <hr/>
 
 Badges by <a target="_blank" href="https://ileriayo.github.io/markdown-badges/">Shield.io</a>
+
 
 
 
