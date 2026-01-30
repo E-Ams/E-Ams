@@ -32,7 +32,7 @@
 </div>
 
 <hr/>
-<h2 align=center>Skills</h2>
+<h2 align=center>Experience</h2>
 
 [//]: # (Languages)
 <div>
@@ -142,6 +142,7 @@
 <hr/>
 
 Badges by <a target="_blank" href="https://ileriayo.github.io/markdown-badges/">Shield.io</a>
+
 
 
 
