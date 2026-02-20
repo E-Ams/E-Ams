@@ -16,8 +16,9 @@
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
 </div>
-
 <hr/>
+
+<!-- ================================================================================================================== -->
 <div align="center">
     <h2>Certifications</h2>
     <a href="https://www.credly.com/badges/69316c3d-acab-4fe4-b71f-961ab651314d/linked_in_profile">
@@ -34,6 +35,7 @@
 <hr/>
 <h2 align=center>Experience</h2>
 
+<!-- ================================================================================================================== -->
 [//]: # (Languages)
 <div>
     <h3 align="center">Languages</h3>
@@ -47,8 +49,10 @@
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
     <a href="https://github.com/PowerShell/PowerShell/"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"/></a>
     <a href="https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=en-za&gl=ZA"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
 </div>
 
+<!-- ================================================================================================================== -->
 [//]: # (Frameworks)
 <div>
     <h3 align="center">Frameworks</h3>
@@ -70,6 +74,15 @@
     <a href="https://socket.io/"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket.io" /></a>
 </div>
 
+<!-- ================================================================================================================== -->
+[//]: # (Version Control)
+<div>
+    <h3 align="center">Version Control</h3>
+    <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git"/></a>   
+</div>
+
+<!-- ================================================================================================================== -->
 [//]: # (Databases)
 <div>
     <h3 align="center">Databases</h3>
@@ -78,9 +91,19 @@
     <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" /></a>
     <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" /></a>
     <a href="https://www.microsoft.com/en-za/microsoft-365/access"><img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access" /></a>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" /></a>
+</div>
+
+<!-- ================================================================================================================== -->
+[//]: # (Hosting)
+<div>
+    <h3 align="center">Hosting</h3>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" /></a>
 </div>
 <hr/>
 
+<!-- ================================================================================================================== -->
 [//]: # (Software)
 <div>
 <h3 align="center">Software</h3>
@@ -93,16 +116,18 @@
     <a href="https://atom.io/"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom"/></a>
     <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text"/></a>
 
+<!-- ================================================================================================================== -->
 <h4>Browsers</h4>
     <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/></a>
     <a href="https://www.google.com/chrome/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Chrome"/></a>
     <a href="https://brave.com"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"/></a>
     <a href="https://duckduckgo.com"><img src="https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="DuckDuckGo"/></a>
 
+<!-- ================================================================================================================== -->
 <h4>Design</h4>
 <a href="https://www.canva.com"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/></a>
 
-
+<!-- ================================================================================================================== -->
 <h4>Other</h4>
     <a href="https://www.office.com/"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" /></a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word" /></a>
@@ -113,16 +138,17 @@
 </div>
 <hr/>
 
+<!-- ================================================================================================================== -->
 [//]: # (Websites)
 <div>
     <h3 align="center">Websites</h3>
     <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" alt="Stack Overflow" /></a>
     <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://blogger.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" /></a>
-
 </div>
 <hr/>
 
+<!-- ================================================================================================================== -->
 [//]: # (Operating Systems)
 <div>
     <h3 align="center">Operating Systems</h3>
@@ -138,10 +164,11 @@
     <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
     <a href="https://lineageos.org/"><img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" alt="LineageOS"/></a>
 </div>
-
 <hr/>
 
+<!-- ================================================================================================================== -->
 Badges by <a target="_blank" href="https://ileriayo.github.io/markdown-badges/">Shield.io</a>
+
 
 
 
