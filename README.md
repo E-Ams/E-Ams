@@ -10,13 +10,22 @@ BSc Information Technology (Software Engineering).
 
 ![BSc IT (Software Engineering)](https://img.shields.io/badge/BSc%20IT-Software%20Engineering-1E3A8A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D)
 
-## What I'm building
+## What I do
 
-- **FieldWarden**: monitors electric fence energisers in real time. C++ Arduino firmware, a PySide6 desktop app with a fence map, and USB relay control for the alarm siren, covered by 450+ pytest tests.
-- **Internal operations tools**: tracking apps, serverless APIs and document data-extraction tools for a multi-branch business.
-- **Websites**: a custom WordPress theme for a truck dealership, built from scratch.
+| 🖥️ **Desktop apps** | ⚡ **Firmware** | 🔌 **APIs** | 🤖 **Automation** |
+| :---: | :---: | :---: | :---: |
+| Electron and Qt tools | C++ on Arduino | Serverless on Vercel and Cloudflare | Scripts, data extraction and relay control |
 
-Most of this lives in private repositories, so the [portfolio](https://amsengine.dev/projects) has the details.
+## About me
+
+```ts
+const evert = {
+  currentlyLearning: "Astro",
+  askMeAbout: ["TypeScript", "Electron", "Arduino and C++", "automation"],
+  openTo: "full-time and freelance work",
+  timezone: "SAST (UTC+2)",
+};
+```
 
 ## Tech I use
 
@@ -35,6 +44,10 @@ Most of this lives in private repositories, so the [portfolio](https://amsengine
 **Testing and tools**
 
 <img src="./Media/icon_pytest.svg" alt="pytest" title="pytest" width="48" height="48"> <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest" width="48" height="48"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48">
+
+## My setup
+
+<img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" title="Arch Linux" width="48" height="48"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="48" height="48"> <img src="./Media/icon_terminal.svg" alt="Terminal (Konsole + zsh)" title="Terminal (Konsole + zsh)" width="48" height="48"> <img src="./Media/icon_claude.svg" alt="Claude" title="Claude" width="48" height="48">
 
 ## Certifications
 
