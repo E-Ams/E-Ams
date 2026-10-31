@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+	<title id="title">Thanks for visiting. More at amsengine.dev</title>
+	<style>
+		.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+		.mono { font-family: ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace; }
+
+		/* Same drifting glow as the hero banner. */
+		.glow { animation: drift 20s ease-in-out infinite alternate; }
+		@keyframes drift { to { transform: translate(-220px, 0); } }
+
+		/* The signal trace sweeps across the full width. */
+		.trace { stroke-dasharray: 260 1600; animation: sweep 6s linear infinite; }
+		@keyframes sweep { from { stroke-dashoffset: 260; } to { stroke-dashoffset: -1600; } }
+
+		@media (prefers-reduced-motion: reduce) {
+			.glow, .trace { animation: none; }
+			.trace { stroke-dasharray: none; }
+		}
+	</style>
+	<defs>
+		<radialGradient id="glow" cx="50%" cy="50%" r="50%">
+			<stop offset="0" stop-color="#3fbf7f" stop-opacity="0.3" />
+			<stop offset="1" stop-color="#3fbf7f" stop-opacity="0" />
+		</radialGradient>
+		<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+			<circle cx="12" cy="12" r="1.1" fill="#223029" />
+		</pattern>
+		<linearGradient id="fade" x1="0" x2="1">
+			<stop offset="0" stop-color="#3fbf7f" stop-opacity="0" />
+			<stop offset="0.5" stop-color="#3fbf7f" />
+			<stop offset="1" stop-color="#8fe0b5" />
+		</linearGradient>
+		<clipPath id="card"><rect width="1200" height="120" rx="18" /></clipPath>
+	</defs>
+
+	<g clip-path="url(#card)">
+		<rect width="1200" height="120" fill="#0b100e" />
+		<ellipse class="glow" cx="900" cy="60" rx="420" ry="160" fill="url(#glow)" />
+		<rect width="1200" height="120" fill="url(#dots)" opacity="0.8" />
+
+		<!-- Monitor trace along the bottom -->
+		<path d="M0 98 H420 L434 82 L448 110 L462 74 L476 104 L490 94 H760 L772 86 L784 106 L796 98 H1200" fill="none" stroke="#1f5c42" stroke-width="2" opacity="0.6" />
+		<path class="trace" d="M0 98 H420 L434 82 L448 110 L462 74 L476 104 L490 94 H760 L772 86 L784 106 L796 98 H1200" fill="none" stroke="url(#fade)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+		<!-- Faceted evergreen logo, from the portfolio favicon -->
+		<g transform="translate(40 22) scale(0.8)">
+			<rect width="64" height="64" rx="14" fill="#0b100e" />
+			<rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="#1f5c42" stroke-width="3" />
+			<path d="M24 29H40L53 50H11Z" fill="#3fbf7f" />
+			<path d="M32 29H40L53 50H32Z" fill="#1f5c42" />
+			<path d="M32 7L46 31H18Z" fill="#8fe0b5" />
+			<path d="M32 7L46 31H32Z" fill="#2a8a5c" />
+			<path d="M32 36L38 46H26Z" fill="#0b100e" />
+			<path d="M29 50H35V57H29Z" fill="#e8eee9" />
+		</g>
+
+		<text x="112" y="56" class="sans" font-size="24" font-weight="600" fill="#e8eee9">Thanks for stopping by</text>
+		<text x="1160" y="56" class="mono" font-size="18" fill="#3fbf7f" text-anchor="end">amsengine.dev →</text>
+	</g>
+	<rect x="0.5" y="0.5" width="1199" height="119" rx="18" fill="none" stroke="#223029" />
+</svg>
