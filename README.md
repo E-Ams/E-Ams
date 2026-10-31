@@ -1,6 +1,7 @@
 <a href="https://amsengine.dev"><img src="./Media/hero.svg" alt="Evert Amsenga, software developer building desktop apps, firmware, APIs and automation" width="100%"></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amsengine.dev-1F5C42?style=for-the-badge&logo=astro&logoColor=white)](https://amsengine.dev)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evertamsenga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertamsenga)
 
 ![BSc IT (Software Engineering)](https://img.shields.io/badge/BSc%20IT-Software%20Engineering-1E3A8A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D)
