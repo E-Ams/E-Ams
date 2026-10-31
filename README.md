@@ -1,4 +1,4 @@
-# Hi, I'm Evert 👋
+<a href="https://amsengine.dev"><img src="./Media/hero.svg" alt="Evert Amsenga, software developer building desktop apps, firmware, APIs and automation" width="100%"></a>
 
 Software developer building desktop apps, firmware, APIs and the automation that connects them.
 BSc Information Technology (Software Engineering).
