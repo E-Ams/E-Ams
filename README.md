@@ -10,19 +10,13 @@ BSc Information Technology (Software Engineering).
 
 ![BSc IT (Software Engineering)](https://img.shields.io/badge/BSc%20IT-Software%20Engineering-1E3A8A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D)
 
-## What I do
-
-| 🖥️ **Desktop apps** | ⚡ **Firmware** | 🔌 **APIs** | 🤖 **Automation** |
-| :---: | :---: | :---: | :---: |
-| Electron and Qt tools | C++ on Arduino | Serverless on Vercel and Cloudflare | Scripts, data extraction and relay control |
-
 ## About me
 
 ```ts
 const evert = {
   currentlyLearning: "Astro",
   askMeAbout: ["TypeScript", "Electron", "Arduino and C++", "automation"],
-  openTo: "full-time and freelance work",
+  openTo: "full-time",
   timezone: "SAST (UTC+2)",
 };
 ```
@@ -47,7 +41,7 @@ const evert = {
 
 ## My setup
 
-<img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" title="Arch Linux" width="48" height="48"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="48" height="48"> <img src="./Media/icon_terminal.svg" alt="Terminal (Konsole + zsh)" title="Terminal (Konsole + zsh)" width="48" height="48"> <img src="./Media/icon_claude.svg" alt="Claude" title="Claude" width="48" height="48">
+<img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" title="Arch Linux" width="48" height="48"> <img src="./Media/icon_kde.svg" alt="KDE Plasma" title="KDE Plasma" width="48" height="48"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="48" height="48"> <img src="./Media/icon_terminal.svg" alt="Terminal (Konsole + zsh)" title="Terminal (Konsole + zsh)" width="48" height="48"> <img src="./Media/icon_claude.svg" alt="Claude" title="Claude" width="48" height="48"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48"> <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="48" height="48"> <img src="./Media/icon_brave.svg" alt="Brave" title="Brave" width="48" height="48">
 
 ## Certifications
 
