@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+	<title id="title">The Complete Google Ads Masterclass, Udemy, 2026</title>
+	<defs>
+		<path id="top-arc" d="M 55 200 A 145 145 0 0 1 345 200" />
+		<path id="bottom-arc" d="M 35 200 A 165 165 0 0 0 365 200" />
+	</defs>
+	<circle cx="200" cy="200" r="190" fill="#ffffff" />
+	<circle cx="200" cy="200" r="180" fill="#a435f0" />
+	<circle cx="200" cy="200" r="126" fill="#ffffff" />
+	<g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="6" fill="#ffffff" text-anchor="middle">
+		<text><textPath href="#top-arc" xlink:href="#top-arc" startOffset="50%">UDEMY CERTIFIED</textPath></text>
+		<text><textPath href="#bottom-arc" xlink:href="#bottom-arc" startOffset="50%">2026</textPath></text>
+		<circle cx="47" cy="200" r="5" />
+		<circle cx="353" cy="200" r="5" />
+	</g>
+	<g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+		<text x="200" y="192" font-size="34" font-weight="700" fill="#2d2f31">Google Ads</text>
+		<text x="200" y="226" font-size="21" font-weight="600" fill="#a435f0" letter-spacing="2">MASTERCLASS</text>
+	</g>
+</svg>
