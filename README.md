@@ -7,6 +7,7 @@ BSc Information Technology (Software Engineering).
 
 [![Portfolio](https://img.shields.io/badge/amsengine.dev-1F5C42?style=for-the-badge&logo=astro&logoColor=white)](https://amsengine.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evertamsenga)
+![BSc IT (Software Engineering)](https://img.shields.io/badge/BSc%20IT-Software%20Engineering-1E3A8A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D)
 
 ## What I'm building
 
@@ -20,39 +21,19 @@ Most of this lives in private repositories, so the [portfolio](https://amsengine
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" height="48"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48"> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" width="48" height="48">
 
 **Frameworks and libraries**
 
-![Qt (PySide6)](https://img.shields.io/badge/Qt%20(PySide6)-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=qt" alt="Qt (PySide6)" title="Qt (PySide6)" width="48" height="48"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48"> <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" height="48"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48"> <img src="https://skillicons.dev/icons?i=electron" alt="Electron" title="Electron" width="48" height="48"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48">
 
 **Hardware, platforms and data**
 
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" width="48" height="48"> <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress" width="48" height="48"> <img src="./Media/icon_shopify.svg" alt="Shopify" title="Shopify" width="48" height="48"> <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="48" height="48"> <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="48" height="48"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48"> <img src="./Media/icon_mariadb.svg" alt="MariaDB" title="MariaDB" width="48" height="48">
 
 **Testing and tools**
 
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="./Media/icon_pytest.svg" alt="pytest" title="pytest" width="48" height="48"> <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest" width="48" height="48"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48">
 
 ## Certifications
 
