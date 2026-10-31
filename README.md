@@ -25,7 +25,7 @@ const evert = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" height="48"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48"> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" width="48" height="48">
+<img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" height="48"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="48" height="48"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48"> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" width="48" height="48"> <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" height="48">
 
 **Frameworks and libraries**
 
