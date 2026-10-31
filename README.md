@@ -10,7 +10,7 @@
 ```ts
 const evert = {
   currentlyLearning: "Astro",
-  askMeAbout: ["TypeScript", "Electron", "Arduino and C++", "automation"],
+  askMeAbout: ["TypeScript", "Arduino and C++", "automation"],
   openTo: "full-time",
   timezone: "SAST (UTC+2)",
 };
