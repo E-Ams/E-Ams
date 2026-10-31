@@ -46,11 +46,10 @@ const evert = {
 
 <table>
   <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/69316c3d-acab-4fe4-b71f-961ab651314d/linked_in_profile"><img src="./Media/aplusEvert.png" alt="CompTIA A+ ce" width="80" height="80"></a><br><sub><b>CompTIA A+ ce</b><br>CompTIA · 2020</sub></td>
-    <td align="center" width="20%"><img src="./Media/udemy_google_ads.svg" alt="The Complete Google Ads Masterclass" width="80" height="80"><br><sub><b>The Complete Google Ads Masterclass</b><br>Udemy · 2026</sub></td>
-    <td align="center" width="20%"><img src="./Media/waze.png" alt="Waze Ads Fundamentals" width="80" height="80"><br><sub><b>Waze Ads Fundamentals</b><br>Google · 2022</sub></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/8c998c00-79ff-4aaa-8400-e4b2f8daa416/linked_in_profile"><img src="./Media/word_cert.png" alt="Pearson Word Introductory" width="80" height="80"></a><br><sub><b>Pearson Word Introductory</b><br>Pearson</sub></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/8a1b0c3b-ef97-4b2a-8f91-646f6b3720dd/linked_in_profile"><img src="./Media/powerpoint_cert.png" alt="Pearson PowerPoint Introductory" width="80" height="80"></a><br><sub><b>Pearson PowerPoint Introductory</b><br>Pearson</sub></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/69316c3d-acab-4fe4-b71f-961ab651314d/linked_in_profile"><img src="./Media/aplusEvert.png" alt="CompTIA A+ ce" width="80" height="80"></a><br><sub><b>CompTIA A+ ce</b><br>CompTIA · 2020</sub></td>
+    <td align="center" width="25%"><img src="./Media/udemy_google_ads.svg" alt="The Complete Google Ads Masterclass" width="80" height="80"><br><sub><b>The Complete Google Ads Masterclass</b><br>Udemy · 2026</sub></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/8c998c00-79ff-4aaa-8400-e4b2f8daa416/linked_in_profile"><img src="./Media/word_cert.png" alt="Pearson Word Introductory" width="80" height="80"></a><br><sub><b>Pearson Word Introductory</b><br>Pearson</sub></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/8a1b0c3b-ef97-4b2a-8f91-646f6b3720dd/linked_in_profile"><img src="./Media/powerpoint_cert.png" alt="Pearson PowerPoint Introductory" width="80" height="80"></a><br><sub><b>Pearson PowerPoint Introductory</b><br>Pearson</sub></td>
   </tr>
 </table>
 
